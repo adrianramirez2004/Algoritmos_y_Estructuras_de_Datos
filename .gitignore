@@ -1,0 +1,24 @@
+# === Ejecutables y Binarios ===
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.gch
+
+# === Carpetas de compilación e IDEs ===
+.vscode/
+.idea/
+*.suo
+*.user
+*.cbp
+CMakeLists.txt.user
+Build/
+bin/
+obj/
+
+# === Archivos del Sistema ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
